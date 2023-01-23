@@ -1,8 +1,8 @@
 ### Oh hi there! I'm Julie 👋
-I am a junior PHP/Symfony developer.
+I am a junior web developer.
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on my [portfolio](https://github.com/jupanaos/portfolio)
+- 🌱 I’m currently learning React and Next
 
 ### ⚔️ Skills
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
